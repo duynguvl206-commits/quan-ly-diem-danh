@@ -5,8 +5,8 @@ import './AttendancePage.css';
 
 // DỮ LIỆU MẪU (MOCK DATA)
 const MOCK_DANH_SACH_SV = [
-    { ID: 1, MA_SINHVIEN: 'SV001', HOTEN: 'Lê Thanh Bình', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
-    { ID: 2, MA_SINHVIEN: 'SV002', HOTEN: 'Nguyễn Thị Mai', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
+    { ID: 1, MA_SINHVIEN: 'SV001', HOTEN: 'Tran Dinh Duy', LOP: 'CNTT K2026', TRANG_THAI: 'CO_MAT' },
+    { ID: 2, MA_SINHVIEN: 'SV002', HOTEN: 'Thach Minh Quan', LOP: 'CNTT K2026', TRANG_THAI: 'CO_MAT' },
     { ID: 3, MA_SINHVIEN: 'SV003', HOTEN: 'Trần Văn Hoàng', LOP: 'CNTT K2023', TRANG_THAI: 'CO_PHEP' },
     { ID: 4, MA_SINHVIEN: 'SV004', HOTEN: 'Phạm Thị Lan', LOP: 'CNTT K2024', TRANG_THAI: 'CO_MAT' },
     { ID: 5, MA_SINHVIEN: 'SV005', HOTEN: 'Đặng Minh Tuấn', LOP: 'CNTT K2023', TRANG_THAI: 'VANG' },
